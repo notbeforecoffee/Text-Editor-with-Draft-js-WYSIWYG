@@ -6,6 +6,7 @@ import DOMPurify from "dompurify";
 import "react-draft-wysiwyg/dist/react-draft-wysiwyg.css";
 import "./App.css";
 
+
 const App = () => {
   const [editorState, setEditorState] = useState(() =>
     EditorState.createEmpty()

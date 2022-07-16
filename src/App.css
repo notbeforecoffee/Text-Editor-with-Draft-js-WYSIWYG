@@ -1,3 +1,8 @@
+
+.App {
+  padding: 0rem 0.5rem;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 5vh;
@@ -7,19 +12,28 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-  margin-bottom: 5vh;
+  /* margin-bottom: 5vh; */
   text-align: center;
+  border: 1px solid #282c34;
+  border-radius: 10px 10px 0px 0px;
+  font-family: 'Poppins';
 }
 
 .wrapper-class {
   padding: 1rem;
   border: 1px solid #ccc;
+  border-radius: 0px 0px 10px 10px;
 }
 .editor-class {
-  background-color:lightgray;
-  padding: 1rem;
-  border: 1px solid #ccc;
+  background-color: offwhite;
+  min-height: 6rem;
+  border: 1px solid #282c34;
+  border-radius: 10px;
+  font-family: Helvetica Neue;
 }
 .toolbar-class {
-  border: 1px solid #ccc;
+  /* border: 1px solid #ccc; */
+  border: none;
+
+
 }
