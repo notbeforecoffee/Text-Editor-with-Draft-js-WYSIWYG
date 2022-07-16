@@ -34,3 +34,4 @@ Functions that seem to work perfectly:
 
 Link to the tutorial that explains the functions, and what they are doing [can be found here](https://blog.logrocket.com/building-rich-text-editors-in-react-using-draft-js-and-react-draft-wysiwyg/)
 
+A fully styled version, without the non-funtioning tools, can be found on the branch 'minimalized-toolbar'
